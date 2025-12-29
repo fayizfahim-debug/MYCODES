@@ -1,10 +1,15 @@
-my first website
-i upgraded it and added a matrix like theme iam planning to add more themes 
+ Matrix Command Center
+A fully interactive, retro-themed terminal interface built for Hack Club 
+ Features
+- Matrix Rain Background: A dynamic JavaScript-powered canvas animation.
+- System Clock: A real-time digital HUD clock.
+- Typewriter Boot Sequence: Staged text reveal with a thick "block" cursor.
+- Persistent User System: Remembers your hacker name using `LocalStorage`.
+- Interactive Modules: Quick links to my other projects (like the spinning cats extension that i made).
 
-#  What it does:
-*nothing most of the time 
+ Tech Stack
+- HTML5 / CSS3 (Custom animations & Flexbox)
+- JavaScript (DOM Manipulation & Canvas API)
 
-# What I learned:
-1. How to use html
-2. Using css to style it  a bit.
-3.learned to use js
+Live Demo
+[View the Terminal Here](https://fayizfahim-debug.github.io/MYCODES/)
